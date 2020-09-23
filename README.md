@@ -27,10 +27,11 @@ This app is intended to be the base project on top of which new features can be 
 
 ## Suggested Extensions
 
-1. Use SearchView to search for books with a title
-2. Show ProgressBar before each network request
-3. Add a detail view to display more information about the selected book from the list
-4. Use a share intent to recommend a book to friends
+[x] Use SearchView to search for books with a title
+![Imgur](/searchview.png)
+[ ] Show ProgressBar before each network request
+[ ] Add a detail view to display more information about the selected book from the list
+[ ] Use a share intent to recommend a book to friends
 
 ## Libraries
 
